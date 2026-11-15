@@ -1,0 +1,253 @@
+{
+  "id": "strobo-stromboli",
+  "area": "beleza",
+  "title": "STROBO",
+  "subtitle": "Stromboli",
+  "intro": "",
+  "tags": [
+    "Beleza para campanha"
+  ],
+  "cover": {
+    "id": "m001",
+    "type": "image",
+    "src": "portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/image.avif",
+    "width": 1440,
+    "height": 1800,
+    "fullSrc": "portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/image.avif",
+    "fullWidth": 1440,
+    "fullHeight": 1800,
+    "alt": "Ellen em look preto diante de projeção de lava",
+    "srcset": "portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/640w.avif 640w, portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/image.avif 1440w",
+    "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+  },
+  "media": [
+    {
+      "id": "m001",
+      "type": "image",
+      "src": "portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/image.avif",
+      "width": 1440,
+      "height": 1800,
+      "fullSrc": "portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/image.avif",
+      "fullWidth": 1440,
+      "fullHeight": 1800,
+      "alt": "Ellen em look preto diante de projeção de lava",
+      "srcset": "portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/640w.avif 640w, portfolio/assets/beleza/strobo-stromboli/capa-ba7e4e60d3/image.avif 1440w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m002",
+      "type": "image",
+      "src": "portfolio/assets/beleza/strobo-stromboli/prata-fumaca-2abd701ef4/image.avif",
+      "width": 1440,
+      "height": 1800,
+      "fullSrc": "portfolio/assets/beleza/strobo-stromboli/prata-fumaca-2abd701ef4/image.avif",
+      "fullWidth": 1440,
+      "fullHeight": 1800,
+      "alt": "Retrato com vestido prata, olhos marcados e lábios pretos",
+      "srcset": "portfolio/assets/beleza/strobo-stromboli/prata-fumaca-2abd701ef4/640w.avif 640w, portfolio/assets/beleza/strobo-stromboli/prata-fumaca-2abd701ef4/image.avif 1440w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m003",
+      "type": "image",
+      "src": "portfolio/assets/beleza/strobo-stromboli/retrato-vermelho-ab5d8bec56/1280w.avif",
+      "width": 1280,
+      "height": 960,
+      "fullSrc": "portfolio/assets/beleza/strobo-stromboli/retrato-vermelho-ab5d8bec56/image.avif",
+      "fullWidth": 1920,
+      "fullHeight": 1440,
+      "alt": "Maquiagem de olhos e boca em iluminação vermelha no set",
+      "srcset": "portfolio/assets/beleza/strobo-stromboli/retrato-vermelho-ab5d8bec56/640w.avif 640w, portfolio/assets/beleza/strobo-stromboli/retrato-vermelho-ab5d8bec56/1280w.avif 1280w, portfolio/assets/beleza/strobo-stromboli/retrato-vermelho-ab5d8bec56/image.avif 1920w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m004",
+      "type": "image",
+      "src": "portfolio/assets/beleza/strobo-stromboli/vestido-preto-593e11669c/image.avif",
+      "width": 1440,
+      "height": 1799,
+      "fullSrc": "portfolio/assets/beleza/strobo-stromboli/vestido-preto-593e11669c/image.avif",
+      "fullWidth": 1440,
+      "fullHeight": 1799,
+      "alt": "Vestido preto com fenda e botas brancas",
+      "srcset": "portfolio/assets/beleza/strobo-stromboli/vestido-preto-593e11669c/640w.avif 640w, portfolio/assets/beleza/strobo-stromboli/vestido-preto-593e11669c/image.avif 1440w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m005",
+      "type": "image",
+      "src": "portfolio/assets/beleza/strobo-stromboli/prata-5f0656a6f1/image.avif",
+      "width": 1440,
+      "height": 1800,
+      "fullSrc": "portfolio/assets/beleza/strobo-stromboli/prata-5f0656a6f1/image.avif",
+      "fullWidth": 1440,
+      "fullHeight": 1800,
+      "alt": "Conjunto prata em fundo claro",
+      "srcset": "portfolio/assets/beleza/strobo-stromboli/prata-5f0656a6f1/640w.avif 640w, portfolio/assets/beleza/strobo-stromboli/prata-5f0656a6f1/image.avif 1440w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m006",
+      "type": "image",
+      "src": "portfolio/assets/beleza/strobo-stromboli/preto-sequencia-4d92695ba9/image.avif",
+      "width": 1440,
+      "height": 1800,
+      "fullSrc": "portfolio/assets/beleza/strobo-stromboli/preto-sequencia-4d92695ba9/image.avif",
+      "fullWidth": 1440,
+      "fullHeight": 1800,
+      "alt": "Três vistas do look preto com botas brancas",
+      "srcset": "portfolio/assets/beleza/strobo-stromboli/preto-sequencia-4d92695ba9/640w.avif 640w, portfolio/assets/beleza/strobo-stromboli/preto-sequencia-4d92695ba9/image.avif 1440w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    }
+  ],
+  "links": [],
+  "credits": [],
+  "credit": "",
+  "story": {
+    "editorial": true,
+    "navigation": true,
+    "galleryOrder": "source",
+    "coverFit": "contain",
+    "chapters": [
+      {
+        "id": "olhos-e-labios",
+        "title": "Olhos e lábios",
+        "label": "Olhos e lábios",
+        "blocks": [
+          {
+            "type": "text",
+            "paragraphs": [
+              "Beleza de Bruno Nascimento para a coleção Stromboli."
+            ]
+          },
+          {
+            "type": "media",
+            "items": [
+              {
+                "id": "m002"
+              },
+              {
+                "id": "m003"
+              }
+            ],
+            "layout": "two"
+          }
+        ]
+      },
+      {
+        "id": "preto-e-prata",
+        "title": "Preto e prata",
+        "label": "Preto e prata",
+        "blocks": [
+          {
+            "type": "media",
+            "items": [
+              {
+                "id": "m004"
+              },
+              {
+                "id": "m005"
+              },
+              {
+                "id": "m006"
+              }
+            ],
+            "layout": "three"
+          }
+        ]
+      },
+      {
+        "id": "em-movimento",
+        "title": "Em movimento",
+        "label": "Em movimento",
+        "blocks": [
+          {
+            "type": "films"
+          }
+        ]
+      },
+      {
+        "id": "creditos",
+        "title": "Ficha técnica",
+        "label": "Créditos",
+        "blocks": [
+          {
+            "type": "credits",
+            "items": [
+              {
+                "role": "Beleza",
+                "names": "Bruno Nascimento",
+                "links": [
+                  {
+                    "title": "Bruno Nascimento",
+                    "url": "https://www.instagram.com/muabruno/"
+                  }
+                ]
+              },
+              {
+                "role": "Direção de arte",
+                "names": "@adrianelisboa",
+                "links": [
+                  {
+                    "title": "@adrianelisboa",
+                    "url": "https://www.instagram.com/adrianelisboa/"
+                  }
+                ]
+              },
+              {
+                "role": "Fotografia da campanha",
+                "names": "@roggercordeiro",
+                "links": [
+                  {
+                    "title": "@roggercordeiro",
+                    "url": "https://www.instagram.com/roggercordeiro/"
+                  }
+                ]
+              },
+              {
+                "role": "Modelo",
+                "names": "@ellen_apinaffi",
+                "links": [
+                  {
+                    "title": "@ellen_apinaffi",
+                    "url": "https://www.instagram.com/ellen_apinaffi/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "paragraphs": [
+              "Ficha técnica: publicação da STROBO em 21 de junho de 2023 . Sobre Stromboli: apresentação da coleção ."
+            ]
+          },
+          {
+            "type": "links",
+            "items": [
+              {
+                "title": "publicação da STROBO em 21 de junho de 2023",
+                "url": "https://www.instagram.com/p/CtxWJNoPcJd/"
+              },
+              {
+                "title": "apresentação da coleção",
+                "url": "https://www.instagram.com/strobo.store/reel/CtxCOxNsM5f/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "filmsInline": true
+  },
+  "films": [
+    {
+      "title": "Filme STROBO",
+      "src": "https://www.youtube.com/embed/lEqv60apahw?rel=0",
+      "url": "https://www.youtube.com/watch?v=lEqv60apahw",
+      "poster": "portfolio/assets/beleza/strobo-stromboli/filme-strobo-2a3a97f236/1280w.avif",
+      "linkLabel": "Ver no YouTube",
+      "aspectRatio": 1.7777777777777777
+    }
+  ]
+}

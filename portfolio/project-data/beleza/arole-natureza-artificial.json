@@ -1,0 +1,189 @@
+{
+  "id": "arole-natureza-artificial",
+  "area": "beleza",
+  "title": "A.ROLÊ",
+  "subtitle": "Natureza Artificial",
+  "intro": "",
+  "tags": [
+    "Campanha de moda · Beleza"
+  ],
+  "cover": {
+    "id": "m001",
+    "type": "image",
+    "src": "portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/image.avif",
+    "width": 1080,
+    "height": 1350,
+    "fullSrc": "portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/image.avif",
+    "fullWidth": 1080,
+    "fullHeight": 1350,
+    "alt": "Look floral em fundo vermelho",
+    "srcset": "portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/640w.avif 640w, portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/image.avif 1080w",
+    "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+  },
+  "media": [
+    {
+      "id": "m001",
+      "type": "image",
+      "src": "portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/image.avif",
+      "width": 1080,
+      "height": 1350,
+      "fullSrc": "portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/image.avif",
+      "fullWidth": 1080,
+      "fullHeight": 1350,
+      "alt": "Look floral em fundo vermelho",
+      "srcset": "portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/640w.avif 640w, portfolio/assets/beleza/arole-natureza-artificial/selection-04-0d4ebae3fa/image.avif 1080w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m002",
+      "type": "image",
+      "src": "portfolio/assets/beleza/arole-natureza-artificial/selection-01-d18f8eb266/image.avif",
+      "width": 1080,
+      "height": 1350,
+      "fullSrc": "portfolio/assets/beleza/arole-natureza-artificial/selection-01-d18f8eb266/image.avif",
+      "fullWidth": 1080,
+      "fullHeight": 1350,
+      "alt": "Dupla em looks multicoloridos em fundo branco",
+      "srcset": "portfolio/assets/beleza/arole-natureza-artificial/selection-01-d18f8eb266/640w.avif 640w, portfolio/assets/beleza/arole-natureza-artificial/selection-01-d18f8eb266/image.avif 1080w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m004",
+      "type": "image",
+      "src": "portfolio/assets/beleza/arole-natureza-artificial/selection-21-6c48cf2157/image.avif",
+      "width": 1080,
+      "height": 1350,
+      "fullSrc": "portfolio/assets/beleza/arole-natureza-artificial/selection-21-6c48cf2157/image.avif",
+      "fullWidth": 1080,
+      "fullHeight": 1350,
+      "alt": "Retrato com maquiagem colorida e estampa laranja e azul",
+      "srcset": "portfolio/assets/beleza/arole-natureza-artificial/selection-21-6c48cf2157/640w.avif 640w, portfolio/assets/beleza/arole-natureza-artificial/selection-21-6c48cf2157/image.avif 1080w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m005",
+      "type": "image",
+      "src": "portfolio/assets/beleza/arole-natureza-artificial/selection-25-ed20764aaf/image.avif",
+      "width": 1080,
+      "height": 1350,
+      "fullSrc": "portfolio/assets/beleza/arole-natureza-artificial/selection-25-ed20764aaf/image.avif",
+      "fullWidth": 1080,
+      "fullHeight": 1350,
+      "alt": "Retrato com maquiagem colorida e look branco",
+      "srcset": "portfolio/assets/beleza/arole-natureza-artificial/selection-25-ed20764aaf/640w.avif 640w, portfolio/assets/beleza/arole-natureza-artificial/selection-25-ed20764aaf/image.avif 1080w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    },
+    {
+      "id": "m008",
+      "type": "image",
+      "src": "portfolio/assets/beleza/arole-natureza-artificial/selection-27-fd9902dd94/image.avif",
+      "width": 1080,
+      "height": 1350,
+      "fullSrc": "portfolio/assets/beleza/arole-natureza-artificial/selection-27-fd9902dd94/image.avif",
+      "fullWidth": 1080,
+      "fullHeight": 1350,
+      "alt": "Dupla com estampas verdes e azuis em fundo vermelho",
+      "srcset": "portfolio/assets/beleza/arole-natureza-artificial/selection-27-fd9902dd94/640w.avif 640w, portfolio/assets/beleza/arole-natureza-artificial/selection-27-fd9902dd94/image.avif 1080w",
+      "sizes": "(max-width:700px) calc(100vw - 48px), 70vw"
+    }
+  ],
+  "links": [],
+  "credits": [],
+  "credit": "",
+  "story": {
+    "editorial": true,
+    "navigation": true,
+    "galleryOrder": "source",
+    "coverFit": "contain",
+    "chapters": [
+      {
+        "id": "retratos-e-looks",
+        "title": "Retratos e looks",
+        "label": "Retratos e looks",
+        "blocks": [
+          {
+            "type": "media",
+            "items": [
+              {
+                "id": "m002"
+              }
+            ],
+            "layout": "single"
+          },
+          {
+            "type": "media",
+            "layout": "single",
+            "items": [
+              {
+                "id": "m008"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "natureza-artificial",
+        "title": "Natureza Artificial",
+        "label": "Natureza Artificial",
+        "blocks": [
+          {
+            "type": "caption",
+            "text": "Campanha de moda"
+          },
+          {
+            "type": "text",
+            "paragraphs": [
+              "A.ROLÊ"
+            ]
+          },
+          {
+            "type": "media",
+            "items": [
+              {
+                "id": "m004"
+              },
+              {
+                "id": "m005"
+              }
+            ],
+            "layout": "two"
+          }
+        ]
+      },
+      {
+        "id": "em-movimento",
+        "title": "Em movimento",
+        "label": "Em movimento",
+        "blocks": [
+          {
+            "type": "films"
+          }
+        ]
+      }
+    ],
+    "filmsInline": true
+  },
+  "films": [
+    {
+      "title": "Filme da coleção",
+      "src": "https://www.youtube.com/embed/560Q-_ylbQY?rel=0",
+      "url": "https://www.youtube.com/watch?v=560Q-_ylbQY",
+      "poster": "portfolio/assets/beleza/arole-natureza-artificial/natureza-artificial-video-01-7dc3ac423f/image.avif",
+      "linkLabel": "Ver no YouTube"
+    },
+    {
+      "title": "Teaser de lançamento",
+      "src": "https://www.youtube.com/embed/-iwubvPszTs?rel=0",
+      "url": "https://www.youtube.com/watch?v=-iwubvPszTs",
+      "poster": "portfolio/assets/beleza/arole-natureza-artificial/natureza-artificial-video-02-1adca3515b/image.avif",
+      "linkLabel": "Ver no YouTube"
+    },
+    {
+      "title": "Bastidores da campanha",
+      "src": "https://www.youtube.com/embed/7o-P_K-SffU?rel=0",
+      "url": "https://www.youtube.com/watch?v=7o-P_K-SffU",
+      "poster": "portfolio/assets/beleza/arole-natureza-artificial/natureza-artificial-backstage-bc65938abc/image.avif",
+      "linkLabel": "Ver no YouTube"
+    }
+  ]
+}

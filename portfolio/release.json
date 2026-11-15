@@ -1,0 +1,65 @@
+{
+  "release": "sites-20261115",
+  "date": "2026-11-13",
+  "areas": [
+    "beleza"
+  ],
+  "projects": {
+    "beleza": [
+      "geodesica",
+      "maquiagem-experimental-e-aderecos",
+      "editorial-de-alimentos-e-acessorios",
+      "sicky-mag-22",
+      "vetor",
+      "joao-ribeiro",
+      "fazenda-futuro-natal",
+      "jaloo",
+      "duma",
+      "roberto-pacurucu",
+      "bruno-urbno",
+      "arole-natureza-artificial",
+      "lucas-silvestre",
+      "publicidade",
+      "mascara-espelhada-bh",
+      "augusto-amparo-transmutacao-textil",
+      "bia-ferreira-boto-fe",
+      "scandalous-guilherme-valente",
+      "strobo-stromboli",
+      "bruna-lee-editorial",
+      "wallace-books-retratos",
+      "yohan-beleza-editorial",
+      "atila-pintura-corporal",
+      "nara-beleza-editorial",
+      "amanda-editorial-beleza",
+      "alexei-casa-de-criadores-2022",
+      "headpieces-de-croche",
+      "muraca-interplanetary",
+      "getulio-abelha",
+      "halloween"
+    ]
+  },
+  "area_counts": {
+    "beleza": 30
+  },
+  "active_projects": 68,
+  "software_projects": [
+    "rakestra-app",
+    "rakestra-gestao",
+    "agastudio"
+  ],
+  "pending_beauty_review_excluded": true,
+  "animated_areas": [
+    "beleza",
+    "design",
+    "produtos",
+    "dados",
+    "consultoria",
+    "software"
+  ],
+  "review_tools_published": false,
+  "public_resume_languages": [
+    "pt"
+  ],
+  "public_resume_count": 5,
+  "clean_urls": true
+}

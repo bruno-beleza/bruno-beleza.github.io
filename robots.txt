@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bruno-beleza.github.io/sitemap.xml
